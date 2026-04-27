@@ -1,5 +1,7 @@
 {
-  "test_link": "NameError(\"name 'NOTEBOOK_LINK' is not defined\")\nTraceback (most recent call last):\n  File \"C:\\Users\\user\\AppData\\Local\\Temp\\ipykernel_3236\\2957777135.py\", line 48, in <module>\n    cur_res = test()\n  File \"C:\\Users\\user\\AppData\\Local\\Temp\\ipykernel_3236\\2957777135.py\", line 6, in test_link\n    'link': NOTEBOOK_LINK\n            ^^^^^^^^^^^^^\nNameError: name 'NOTEBOOK_LINK' is not defined\n",
+  "test_link": {
+    "link": null
+  },
   "test_preprocess": {
     "vocab_length": 1804
   },
